@@ -1,12 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\api",
-    "\\api\\app",
-    "\\ui",
-    "\\ui\\src",
-    "\\ui\\src\\components",
-    "\\ui\\src\\services"
+    "\\app",
+    "\\app\\config",
+    "\\app\\models"
   ],
+  "SelectedNode": "\\app\\config\\db.config.js",
   "PreviewInSolutionExplorer": false
 }
