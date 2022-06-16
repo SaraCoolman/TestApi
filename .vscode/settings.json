@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f1a22472-1780-4b40-8d15-3c475649ee27/microsoft.web/sites/subscriptions/f1a22472-1780-4b40-8d15-3c475649ee27/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/LodgeServiceAPI",
+    "appService.deploySubpath": "."
+}
